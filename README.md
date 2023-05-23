@@ -11,7 +11,7 @@
 [![Facebook](https://img.shields.io/badge/Facebook-00457C.svg?logo=Facebook&logoColor=white)](https://facebook.com/taaylorgraay) [![Instagram](https://img.shields.io/badge/Instagram-FCC624.svg?logo=Instagram&logoColor=purple)](https://instagram.com/taaylorgraay) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/taaylorgraay_) [![YouTube](https://img.shields.io/badge/YouTube-FE7A16.svg?logo=YouTube&logoColor=white)](https://youtube.com/@taaylorgraay) 
 
 ### Professional
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%2320232a.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/taaylor-graay) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-%234ea94b?logo=stack-overflow&logoColor=FE7A16)](https://stackoverflow.com/users/19316874)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%2320232a.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/taaylor-graay) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-white?logo=stack-overflow&logoColor=FE7A16)](https://stackoverflow.com/users/19316874)
 
 ### 🐦 Latest Tweet
 <a href="https://github.com/VishwaGauravIn/github-twitter-card-embed"><img src="https://gtce.itsvg.in/api?username=taaylorgraay_&theme=gruvbox&response=true&border=true&time=true&icon=code"/></a>
@@ -24,13 +24,13 @@
 ![Gradle](https://img.shields.io/badge/Gradle-00457C.svg?style=flat&logo=Gradle&logoColor=white) 
 
 ### Database / Backend as a Serivce (BaaS)
-![Firebase](https://img.shields.io/badge/firebase-%231DA1F2.svg?style=flat&logo=firebase&logoColor=FE7A16) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white)
+![Firebase](https://img.shields.io/badge/firebase-%231DA1F2.svg?style=flat&logo=firebase&logoColor=FCC624) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white)
 
 ### Design
 ![Figma](https://img.shields.io/badge/figma-FCC624.svg?style=flat&logo=figma&logoColor=black)
 
 ### Languages
-![Apache Groovy](https://img.shields.io/badge/Apache%20Groovy-%2320232a.svg?style=flat&logo=Apache+Groovy&logoColor=white) ![Java](https://img.shields.io/badge/java-%231DA1F2.svg?style=flat&logo=coffeescript&logoColor=white) ![Kotlin](https://img.shields.io/badge/kotlin-purple.svg?style=flat&logo=kotlin&logoColor=FE7A16)
+![Java](https://img.shields.io/badge/java-white.svg?style=flat&logo=coffeescript&logoColor=00457C) ![Kotlin](https://img.shields.io/badge/kotlin-purple.svg?style=flat&logo=kotlin&logoColor=FE7A16)
 
 ### Mobile Development
 ![ANDROID](https://img.shields.io/badge/android-%2320232a.svg?style=flat&logo=android&logoColor=%234ea94b)

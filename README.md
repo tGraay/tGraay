@@ -8,7 +8,7 @@
 
 ## 💫 Socials:
 ### General
-[![Facebook](https://img.shields.io/badge/Facebook-00457C.svg?logo=Facebook&logoColor=white)](https://facebook.com/taaylorgraay) [![Instagram](https://img.shields.io/badge/Instagram-FCC624.svg?logo=Instagram&logoColor=purple)](https://instagram.com/taaylorgraay) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/taaylorgraay_) [![YouTube](https://img.shields.io/badge/YouTube-FE7A16.svg?logo=YouTube&logoColor=white)](https://youtube.com/@taaylorgraay) 
+[![Facebook](https://img.shields.io/badge/Facebook-00457C.svg?logo=Facebook&logoColor=white)](https://facebook.com/taaylorgraay) [![Instagram](https://img.shields.io/badge/Instagram-FCC624.svg?logo=Instagram&logoColor=purple)](https://instagram.com/taaylorgraay) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/taaylorgraay_) 
 
 ### Professional
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%2320232a.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/taaylor-graay) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-white?logo=stack-overflow&logoColor=FE7A16)](https://stackoverflow.com/users/19316874)
@@ -21,7 +21,7 @@
 ![Postman](https://img.shields.io/badge/Postman-FE7A16?style=flat&logo=postman&logoColor=white) 
 
 ### Build Tools
-![Gradle](https://img.shields.io/badge/Gradle-00457C.svg?style=flat&logo=Gradle&logoColor=white) 
+![Gradle](https://img.shields.io/badge/Gradle-white.svg?style=flat&logo=Gradle&logoColor=00457C) 
 
 ### Continuous Integration / Continuous Delivery (CI/CD)
 ![Bitrise](https://img.shields.io/badge/Bitrise-purple.svg?style=flat&logo=Bitrise&logoColor=white) 
@@ -30,7 +30,7 @@
 ![Firebase](https://img.shields.io/badge/Firebase-%231DA1F2.svg?style=flat&logo=firebase&logoColor=FCC624) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white)
 
 ### Design
-![Figma](https://img.shields.io/badge/Figma-FCC624.svg?style=flat&logo=figma&logoColor=white) ![Material Design](https://img.shields.io/badge/Material_Design-white.svg?style=flat&logo=materialdesign&logoColor=black)
+![Figma](https://img.shields.io/badge/Figma-FCC624.svg?style=flat&logo=figma&logoColor=white) ![Material Design](https://img.shields.io/badge/Material_Design-white.svg?style=flat&logo=materialdesign&logoColor=%2320232a)
 
 ### Languages
 ![Java](https://img.shields.io/badge/Java-00457C.svg?style=flat&logo=coffeescript&logoColor=FE7A16) ![Kotlin](https://img.shields.io/badge/Kotlin-%2320232a.svg?style=flat&logo=kotlin&logoColor=purple)

@@ -23,23 +23,29 @@
 ### Build Tools
 ![Gradle](https://img.shields.io/badge/Gradle-00457C.svg?style=flat&logo=Gradle&logoColor=white) 
 
+### Continuous Integration / Continuous Delivery (CI/CD)
+![Bitrise](https://img.shields.io/badge/Bitrise-purple.svg?style=flat&logo=Bitrise&logoColor=white) 
+
 ### Database / Backend as a Serivce (BaaS)
-![Firebase](https://img.shields.io/badge/firebase-%231DA1F2.svg?style=flat&logo=firebase&logoColor=FCC624) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-%231DA1F2.svg?style=flat&logo=firebase&logoColor=FCC624) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white)
 
 ### Design
-![Figma](https://img.shields.io/badge/figma-FCC624.svg?style=flat&logo=figma&logoColor=black)
+![Figma](https://img.shields.io/badge/Figma-FCC624.svg?style=flat&logo=figma&logoColor=white) ![Material Design](https://img.shields.io/badge/Material_Design-white.svg?style=flat&logo=materialdesign&logoColor=black)
 
 ### Languages
-![Java](https://img.shields.io/badge/java-white.svg?style=flat&logo=coffeescript&logoColor=00457C) ![Kotlin](https://img.shields.io/badge/kotlin-purple.svg?style=flat&logo=kotlin&logoColor=FE7A16)
+![Java](https://img.shields.io/badge/Java-00457C.svg?style=flat&logo=coffeescript&logoColor=FE7A16) ![Kotlin](https://img.shields.io/badge/Kotlin-%2320232a.svg?style=flat&logo=kotlin&logoColor=purple)
 
 ### Mobile Development
-![ANDROID](https://img.shields.io/badge/android-%2320232a.svg?style=flat&logo=android&logoColor=%234ea94b)
+![ANDROID](https://img.shields.io/badge/Android-%2320232a.svg?style=flat&logo=android&logoColor=%234ea94b)
 
 ### Operating System
 ![LINUX](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black) 
 
 ### Project Management
-![Confluence](https://img.shields.io/badge/confluence-00457C.svg?style=flat&logo=confluence&logoColor=white) ![Jira](https://img.shields.io/badge/jira-00457C.svg?style=flat&logo=jira&logoColor=white) ![Trello](https://img.shields.io/badge/Trello-00457C.svg?style=flat&logo=Trello&logoColor=white)
+![Confluence](https://img.shields.io/badge/Confluence-white.svg?style=flat&logo=confluence&logoColor=%231DA1F2) ![Jira](https://img.shields.io/badge/Jira-white.svg?style=flat&logo=jira&logoColor=%231DA1F2) ![Trello](https://img.shields.io/badge/Trello-white.svg?style=flat&logo=Trello&logoColor=%231DA1F2)
+
+### UI Framework
+![Jetpack Compose](https://img.shields.io/badge/Jetpack_Compose-00457C.svg?style=flat&logo=jetpackcompose&logoColor=%234ea94b)
 
 ## 🖼️ GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=tGraay&theme=gruvbox&hide_border=false&include_all_commits=true&count_private=true)<br/>

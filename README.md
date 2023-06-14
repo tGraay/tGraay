@@ -13,9 +13,6 @@
 ### Professional
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%2320232a.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/taaylor-graay) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-white?logo=stack-overflow&logoColor=FE7A16)](https://stackoverflow.com/users/19316874)
 
-### 🐦 Latest Tweet
-<a href="https://github.com/VishwaGauravIn/github-twitter-card-embed"><img src="https://gtce.itsvg.in/api?username=taaylorgraay_&theme=gruvbox&response=true&border=true&time=true&icon=code"/></a>
-
 ## 💻 Tech Stack:
 ### API Platform
 ![Postman](https://img.shields.io/badge/Postman-FE7A16?style=flat&logo=postman&logoColor=white) 
